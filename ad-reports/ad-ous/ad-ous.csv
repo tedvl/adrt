@@ -1,2 +1,0 @@
-﻿"Name","Description","DistinguishedName"
-"Domain Controllers","Default container for domain controllers","OU=Domain Controllers,DC=100security,DC=local"
